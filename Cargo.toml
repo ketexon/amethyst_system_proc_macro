@@ -1,14 +1,14 @@
 [package]
-name = "amethyst_codegen"
+name = "amethyst_system_proc_macro"
 version = "0.4.0"
 description = "#[system] proc macro for the amethyst library"
-authors = ["Thomas Gillen <thomas.gillen@googlemail.com>"]
-repository = "https://github.com/TomGillen/legion"
+authors = ["Zane \"Ketexon\" Clark <xketexon@gmail.com>"]
+repository = "https://github.com/ketexon/amethyst_system_proc_macro"
 keywords = ["ecs", "game"]
 categories = ["game-engines", "data-structures"]
 readme = "readme.md"
 license = "MIT"
-edition = "2018"
+edition = "2021"
 
 [lib]
 proc-macro = true
